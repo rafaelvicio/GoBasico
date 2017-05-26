@@ -5,7 +5,7 @@ import (
 )
 
 func main(){
-  const constante sintrg = "Go"
+  const constante string = "Go"
   fmt.Println(constante)
 
   constante = "Go Lang" // Aqui vai da erro
